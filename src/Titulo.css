@@ -1,0 +1,18 @@
+.Title-flex{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    color: white;
+}
+
+.Title-flex h2{
+    font-size: 21pt;
+   font-weight: 800;
+   color:rgb(253, 242, 224);
+}
+
+.Title-flex img{
+    height: 50px;
+}

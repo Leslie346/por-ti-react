@@ -1,0 +1,28 @@
+.Detalle-flex{
+    display: flex;
+    align-items: center;
+}
+
+.Detalle-flex h3{
+    color:blanchedalmond;
+}
+
+.Detalle-flex img{
+    width: 50%;
+    border-radius: 40px;
+}
+
+.h3{
+    color:blanchedalmond;
+}
+
+.Detalle-title{
+    color:blanchedalmond;
+}
+
+.Recetas-cont{
+    height: 375px;
+    display: block;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
